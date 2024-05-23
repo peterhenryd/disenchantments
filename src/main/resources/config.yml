@@ -1,0 +1,17 @@
+locale:
+  prefix: "&8[&cDisenchantments&8]"
+  no-permission: "{prefix} &7You do not have permission to execute this command."
+  must-be-player: "{prefix} &7You must be a player to use this command."
+  no-enchantments: "{prefix} &7The item you are trying to disenchant is not enchanted."
+  no-books: "{prefix} &7You need at least one book in your inventory to disenchant an item."
+  inventory-full: "{prefix} &7Your inventory is full. To disenchant an item, please have at least one empty inventory slot."
+  enchantment-unspecified: "{prefix} &7Please specify which enchantment you would like to extract from this item."
+  no-item: "{prefix} &7You are not holding an item."
+  unknown-enchantment: "{prefix} &7There is no such enchantment with the name specified."
+  non-applicable-enchantment: "{prefix} &7The item you are holding does not have the enchantment specified."
+  disenchantment-successful: "{prefix} &7Your item has been successfully disenchanted."
+  disenchantments-overview:
+  - "{prefix} &7You are running v{0}. Developed by &fpeterhenryd&7."
+  - "{prefix} &7Use &f/disenchantments reload &7 to reload the plugin's configuration file."
+  disenchantments-reload: "{prefix} &7Reloading the plugin's configuration file."
+  unknown-subcommand: "{prefix} &7Unknown subcommand."

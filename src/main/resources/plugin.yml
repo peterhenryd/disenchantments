@@ -1,0 +1,11 @@
+name: Disenchantments
+version: '${version}'
+main: me.peterhenryd.disenchantments.Disenchantments
+api-version: '1.20'
+commands:
+  disenchant:
+    description: Removes an enchantment from a book.
+    permission: disenchantments.use
+  disenchantments:
+    description: The administration command for the Disenchantments plugin.
+    permission: disenchantments.admin
